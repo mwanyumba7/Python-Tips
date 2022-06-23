@@ -15,6 +15,8 @@ The specific list of projects contained follows:
 * [Getting Current Time](https://github.com/mwanyumba7/Python-Tips/tree/main/Get_Current_Time)
 * [Sorting a list in Descending Oder](https://github.com/mwanyumba7/Python-Tips/tree/main/Descending_Sorting)
 * [Swapping variables](https://github.com/mwanyumba7/Python-Tips/tree/main/Swapping_Variables)
+* [Counting item occurences](https://github.com/mwanyumba7/Python-Tips/tree/main/Counting_Item_Occurences)
+
 
 
 ## Author :
