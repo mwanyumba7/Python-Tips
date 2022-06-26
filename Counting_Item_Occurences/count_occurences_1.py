@@ -10,7 +10,7 @@ classmates = ["Consolata", "Gospel", "Marlin", "Consolata", "Marlin", "Fred"]
 count_conny = Counter(classmates).get("Consolata")
 
 # Lets print out and see how many times the name appeared
-print(f"The name Consolata appears in the list" f{count_consolata}items.")
+print(f"The name Consolata appears in the list" f{count_consolata}items.")                                                                                                                                                    
 
 # Output The name 
 The name Consolata appears in the list 2
