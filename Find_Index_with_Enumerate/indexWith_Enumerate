@@ -1,0 +1,8 @@
+str1 = 'string'
+
+for i, j in enumerate(str1):
+
+if j =='n':
+print(f"The index of n is {i}")
+#Output
+The index of 'n' is 4
